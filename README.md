@@ -3,7 +3,7 @@
 ## Стефан Ивановски 196068
 
 ### Control Flow Graph
-[!CFG](https://raw.githubusercontent.com/limepixl/SI_lab2_196068/main/CFD.png)
+![CFG](https://raw.githubusercontent.com/limepixl/SI_lab2_196068/main/CFD.png)
 
 ### Цикломатска комплексност
 цикломатскаКомплексност = бројРабови - бројТемиња + 2*поврзаниКомпоненти
